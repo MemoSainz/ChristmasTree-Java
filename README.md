@@ -19,3 +19,8 @@ Bien, ¡aquí está este poyecto que hará que tu deseo se haga realidad!
 Hay un mensaje hermoso al final del proyecto, al ver tu árbol terminado. Usa un traductor copiando y pegando ese mensaje de la terminal si no sabes inglés:
 
 [traductor](https://translate.google.com/)
+
+<br>
+<br>
+
+<b> All lefts reserved 	&#169; Memo Sainz 2024 </b>
