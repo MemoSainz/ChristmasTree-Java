@@ -16,6 +16,6 @@ Bien, ¡aquí está este poyecto que hará que tu deseo se haga realidad!
 
 
  Todo el proyecto está en inglés, solo es necesario poner el número de líneas que deseas, para darle altura al árbol.
-Hay un mensaje hermoso al final del proyecto, al ver tu árbol terminado. Usa un traductor copiando y pegando si no sabes inglés:
+Hay un mensaje hermoso al final del proyecto, al ver tu árbol terminado. Usa un traductor copiando y pegando ese mensaje de la terminal si no sabes inglés:
 
 [traductor](https://translate.google.com/)
